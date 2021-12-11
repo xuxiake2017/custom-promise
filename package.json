@@ -1,0 +1,17 @@
+{
+  "name": "custom-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:main": "promises-aplus-tests src/CustomPromise",
+    "test:custom": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.4",
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
